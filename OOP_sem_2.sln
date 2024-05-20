@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_1", "lab_1\lab_1.csproj", "{C3A50C4B-F32C-4687-8A83-2FDC119ED08D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab_1", "lab_1\lab_1.csproj", "{C3A50C4B-F32C-4687-8A83-2FDC119ED08D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab_2", "lab_2\lab_2.csproj", "{D905A905-AAB0-4F20-88AE-13703F2B534A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_3", "lab_3\lab_3.csproj", "{BCE3CDF4-1576-4ACD-87AD-E7C5A998D504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_4", "lab_4\lab_4.csproj", "{1134C10D-CEDA-48C6-A290-2DCABD2D9FBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{C3A50C4B-F32C-4687-8A83-2FDC119ED08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3A50C4B-F32C-4687-8A83-2FDC119ED08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3A50C4B-F32C-4687-8A83-2FDC119ED08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D905A905-AAB0-4F20-88AE-13703F2B534A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D905A905-AAB0-4F20-88AE-13703F2B534A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D905A905-AAB0-4F20-88AE-13703F2B534A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D905A905-AAB0-4F20-88AE-13703F2B534A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE3CDF4-1576-4ACD-87AD-E7C5A998D504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE3CDF4-1576-4ACD-87AD-E7C5A998D504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE3CDF4-1576-4ACD-87AD-E7C5A998D504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE3CDF4-1576-4ACD-87AD-E7C5A998D504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1134C10D-CEDA-48C6-A290-2DCABD2D9FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1134C10D-CEDA-48C6-A290-2DCABD2D9FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1134C10D-CEDA-48C6-A290-2DCABD2D9FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1134C10D-CEDA-48C6-A290-2DCABD2D9FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
